@@ -10,7 +10,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author Team
+ * @author Ashutosh
  */
 public class MySqlConnector {
     
